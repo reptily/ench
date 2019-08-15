@@ -1,0 +1,24 @@
+{
+  "name": "ench",
+  "version": "1.0.1",
+  "description": "The library is used to easily iterate over a character on a given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reptily/ench.git"
+  },
+  "keywords": [
+    "ench",
+    "ensuing",
+    "character"
+  ],
+  "author": "Reptily <reptily@go2ride.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reptily/ench/issues"
+  },
+  "homepage": "https://github.com/reptily/ench#readme"
+}
