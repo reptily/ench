@@ -27,10 +27,12 @@ function Controller(){
 				 }
 				 m+=v.charAt(0);
 
-					 if(max) 
+					 if(max){ 
 						 ret=this.next(i+1,newStr,v);
-					 else
+					 }
+					 else{
 						 ret=m;
+					 }
 			 }
 			 else{ //Если еще есть символы
 				 let u=0;
