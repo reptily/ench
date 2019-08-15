@@ -7,7 +7,7 @@ To install the library
 npm install ench
 ```
 
-##How it works?
+## How it works?
 ```js
 #require the library
 const ench = require("ench");
