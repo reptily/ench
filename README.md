@@ -24,9 +24,9 @@ const gen = new ench();
 //do the test, print 10 sequences
 let i=0;
 while(i<10){
-        str = gen.next(0,str,v);
-        console.log(str);
-        i++;
+    str = gen.next(0,str,v);
+    console.log(str);
+    i++;
 }
 
 //console.log
